@@ -1,7 +1,9 @@
 # SETUP
 Make sure you have node installed then, run in cmd:
-"npm install
-npm start"
+```
+npm install
+npm start
+```
 
 # COMMANDS
 start = start project in node
@@ -58,7 +60,7 @@ Endpoint: GET /users/profile
 Headers:
 ```
 {
-  "Authorization": "Bearer <token>"
+  "Authorization": "<token>"
 }
 ```
 Response:
